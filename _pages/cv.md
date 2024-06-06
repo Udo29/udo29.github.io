@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Cybersecurity at Ynov, Bordeaux, 2023
+* B.S. in Computer Science at Université Bretagne-Sud, Vannes, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-2024: Cyber Security Engineer
+  * Improvement of cloud monitoring and security
+  * Helping set up a Vulnerability Disclosure Policy
+  * L3 Support
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2023: Cyberdefense Analyst
+  * Cyber governance (registration file, risk analysis, etc)
+  * User awareness on cyber risks
+  * Control of user stations
+  * Organizationial and compliance audit
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Network, web & system security
+* Penetration testing & audit
+* Cyber governance
+* Linux
+* Python
 
 Publications
 ======
@@ -58,7 +52,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
