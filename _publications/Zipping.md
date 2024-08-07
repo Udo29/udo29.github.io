@@ -35,7 +35,6 @@ Root: `db0872260ca31c785a93a40dcb9c012d`
 | ---- | ------- |
 | 22 | ssh |
 | 80 | http |
-|
 
 The only services on the machine are `ssh` and `http`, which means there is a website and we can possibly connect with ssh later on.
 
