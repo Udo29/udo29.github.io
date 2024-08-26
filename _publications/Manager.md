@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/WU-Manager
 excerpt: 'This is the write-up of the machine Manager from HackTheBox.'
 date: 2023-10-21
-venue: 'Manager'
+venue: 'Journal'
 paperurl: 'http://academicpages.github.io/files/manager.pdf'
 citation: ''
 ---

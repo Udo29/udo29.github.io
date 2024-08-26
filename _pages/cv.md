@@ -26,6 +26,10 @@ Work experience
   * Cyber governance (registration file, risk analysis, etc)
   * User awareness on cyber risks
   * Organizationial and compliance audit
+
+Certifications
+======
+* eJPTv2
   
 Skills
 ======
