@@ -1,11 +1,11 @@
 ---
-title: "Zipping"
+title: "Surveillance"
 collection: publications
-permalink: /publication/WU-Zipping
-excerpt: 'This is the write-up of the machine Zipping from HackTheBox.'
+permalink: /publication/WU-Surveillance
+excerpt: 'This is the write-up of the machine Surveillance from HackTheBox.'
 date: 2023-08-26
 venue: 'Journal'
-paperurl: 'http://academicpages.github.io/files/zipping.pdf'
+paperurl: 'http://academicpages.github.io/files/surveillance.pdf'
 citation: ''
 ---
 
