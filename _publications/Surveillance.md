@@ -3,7 +3,7 @@ title: "Surveillance"
 collection: publications
 permalink: /publication/WU-Surveillance
 excerpt: 'This is the write-up of the machine Surveillance from HackTheBox.'
-date: 2023-08-26
+date: 2023-12-09
 venue: 'Journal'
 paperurl: 'http://academicpages.github.io/files/surveillance.pdf'
 citation: ''
